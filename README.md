@@ -2,5 +2,5 @@
 Collect and geo-reference content including unarchived satellite and drone imagery footage, 3D data, and other content related to Russia's progress in Ukraine.
 
 ## member
-[@shogohirasawa](https://github.com/ShogoHirasawa)  
+[@ShogoHirasawa](https://github.com/ShogoHirasawa)  
 [@halgraphic](https://github.com/halgraphic)
